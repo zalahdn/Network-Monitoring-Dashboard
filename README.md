@@ -28,3 +28,17 @@ python network_monitor.py
 
 3. Open browser:
 http://localhost:5000
+
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Add Device
+![Add Device](dashboard-add-device.png)
+
+### Save Report
+![Report](report.png)
+
+### Terminal
+![Terminal](terminal.png)
